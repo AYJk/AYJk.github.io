@@ -1,0 +1,33 @@
+---
+layout:     post
+title:      "你好"
+subtitle:   " \"重新来一份Blog\""
+date:       2020-05-26 3:48:00
+author:     "香蕉Dark"
+header-img: "img/home-bg-o.jpg"
+catalog: true
+tags:
+    - 生活
+---
+
+> “通了通了~”
+
+## 正文
+
+记一下，记一下
+
+```
+[直达电梯 ](#build) 
+<p id = "build"></p>
+```
+
+好了，大概都搞好了，就剩一点边边角角的东西整一整了。
+以后可以安心写写东西了，记录下一个人从此刻开始的故事感悟吧。
+
+## 感谢
+
+最后感谢下作者分享了这么好看的主题~
+
+↓↓↓
+
+[Huxpro](https://github.com/Huxpro/huxpro.github.io)
