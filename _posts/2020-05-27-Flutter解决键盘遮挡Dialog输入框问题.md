@@ -3,7 +3,7 @@ layout:     post
 title:      "Flutter 解决键盘遮挡Dialog输入框问题"
 subtitle:   " \"初学Flutter\""
 date:       2020-05-27 10:47:00
-author:     "香蕉Dark"
+author:     "香蕉Duck"
 header-img: "img/home-bg-o.jpg"
 catalog: true
 tags:

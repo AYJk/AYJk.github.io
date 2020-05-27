@@ -1,10 +1,10 @@
 # Site settings
 title: AYJk's Blog
-SEOTitle: 香蕉Dark的博客 | AYJk's Blog
+SEOTitle: 香蕉Duck的博客 | AYJk's Blog
 header-img: img/home-bg.png
 email: andy5759520@gmail.com
 description: "写一点乱七八糟的东西"
-keyword: "AYJk's Blog, 香蕉Dark的博客, 博客, 个人网站, 互联网, iOS, Swift, 前端"
+keyword: "AYJk's Blog, 香蕉Duck的博客, 博客, 个人网站, 互联网, iOS, Swift, 前端"
 url: "https://ayjk.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
